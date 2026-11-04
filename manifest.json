@@ -6,7 +6,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/vega.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "MultiStream",
@@ -15,7 +16,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/autoEmbed.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "MoviesDrive",
@@ -24,7 +26,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/drive.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "MultiMovies",
@@ -32,7 +35,8 @@
     "version": "1.5",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/multi.png",
     "type": "global",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "4khdHub",
@@ -41,7 +45,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/4khdhub.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "Cinewood",
@@ -50,7 +55,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/1cinevood.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "World4uFree",
@@ -58,7 +64,8 @@
     "version": "1.8",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/world4u.png",
     "type": "global",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "KatMoviesHd",
@@ -67,7 +74,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/katmovies.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "MoviesMod",
@@ -75,7 +83,8 @@
     "version": "2.1",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/mod.png",
     "type": "global",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "UHDMovies",
@@ -83,7 +92,8 @@
     "version": "2.2",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/uhd.webp",
     "type": "global",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "ProtonMovies",
@@ -91,7 +101,8 @@
     "version": "1.7",
     "icon": "",
     "type": "global",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "CinemaLuxe",
@@ -100,7 +111,8 @@
     "icon": "",
     "type": "global",
     "disabled": true,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "FilmyFly",
@@ -108,7 +120,8 @@
     "version": "1.10",
     "icon": "",
     "type": "global",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "MovieBox App",
@@ -116,7 +129,8 @@
     "version": "2.5",
     "icon": "",
     "type": "global",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "MovieBox Web",
@@ -125,7 +139,8 @@
     "hasSettings": true,
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/movieBoxWeb.png",
     "type": "global",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "GokuHD",
@@ -133,7 +148,8 @@
     "version": "1.7",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/gokuHD.png",
     "type": "global",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "DramaCool",
@@ -141,7 +157,8 @@
     "version": "1.3",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/dramacool.png",
     "type": "global",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "MKVDrama",
@@ -150,7 +167,8 @@
     "icon": "",
     "type": "global",
     "disabled": true,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "EonMovies",
@@ -159,7 +177,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/eonMovies.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "Movies4U",
@@ -168,7 +187,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/movies4u.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "KmMovies",
@@ -177,7 +197,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/kmMovies.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "Zeefliz",
@@ -186,7 +207,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/zeefliz.jpg",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "KatMovieFix",
@@ -195,7 +217,8 @@
     "icon": "",
     "type": "global",
     "disabled": true,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "Ringz",
@@ -203,7 +226,8 @@
     "version": "1.2",
     "icon": "",
     "type": "global",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "NetflixMirror",
@@ -212,7 +236,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/netflixMirror.webp",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "PrimeMirror",
@@ -221,7 +246,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/primeMirror.webp",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "DisneyMirror",
@@ -230,7 +256,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/disneyMirror.webp",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "HdHub4u",
@@ -239,7 +266,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/hdhub4u.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "Ogomovies",
@@ -247,7 +275,8 @@
     "version": "1.1",
     "icon": "",
     "type": "india",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "A.111477",
@@ -255,7 +284,8 @@
     "version": "1.8",
     "icon": "",
     "type": "english",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "VadaPav",
@@ -263,7 +293,8 @@
     "version": "1.1",
     "icon": "",
     "type": "global",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "MoviesApi",
@@ -271,7 +302,8 @@
     "version": "1.1",
     "icon": "",
     "type": "english",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "MoviezWap",
@@ -279,7 +311,8 @@
     "version": "1.4",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/moviezwap.png",
     "type": "india",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "ShowBox",
@@ -288,7 +321,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/showbox.png",
     "type": "english",
     "hasSettings": true,
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "RidoMovies",
@@ -296,7 +330,8 @@
     "version": "1.4",
     "icon": "",
     "type": "english",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "FlixHQ",
@@ -304,7 +339,8 @@
     "version": "1.1",
     "icon": "",
     "type": "english",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "Primewire",
@@ -312,7 +348,8 @@
     "version": "1.4",
     "icon": "",
     "type": "english",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "HiAnime",
@@ -320,7 +357,8 @@
     "version": "1.2",
     "icon": "",
     "type": "english",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "Animetsu",
@@ -328,7 +366,8 @@
     "version": "1.10",
     "icon": "",
     "type": "english",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "TokyoInsider",
@@ -336,7 +375,8 @@
     "version": "1.1",
     "icon": "",
     "type": "english",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "KissKh",
@@ -344,7 +384,8 @@
     "version": "1.5",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/kissKh.png",
     "type": "english",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "Dooflix",
@@ -352,7 +393,8 @@
     "version": "1.5",
     "icon": "",
     "type": "india",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "RogMovies",
@@ -361,7 +403,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/luxMovies.png",
     "type": "india",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "TopMovies",
@@ -370,7 +413,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/topmovies.png",
     "type": "india",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "GuardaHD",
@@ -378,7 +422,8 @@
     "version": "2.0",
     "icon": "",
     "type": "italy",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "SkyMovieHD",
@@ -387,7 +432,8 @@
     "icon": "",
     "type": "global",
     "disabled": true,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "Joya9tv",
@@ -396,7 +442,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/Joya9tv.png",
     "type": "india",
     "disabled": true,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "AnimeStream",
@@ -404,7 +451,8 @@
     "version": "1.2",
     "icon": "",
     "type": "english",
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "display_name": "Torrentio",
@@ -413,7 +461,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/torrentio.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "CineFreak",
@@ -422,7 +471,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/cinefreak.png",
     "type": "global",
     "hasSettings": true,
-    "disabled": true
+    "disabled": true,
+    "author": "Official"
   },
   {
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/anikoto.png",
@@ -430,7 +480,8 @@
     "value": "anikoto",
     "version": "2.1",
     "type": "anime",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/kickAssAnime.png",
@@ -438,7 +489,8 @@
     "value": "kickAssAnime",
     "version": "1.6",
     "type": "anime",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "AnimeSub+",
@@ -447,7 +499,8 @@
     "icon": "https://animesub.duckdns.org/assets/logo.png",
     "type": "anime",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "Everything",
@@ -455,7 +508,8 @@
     "version": "1.5",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/everything.png",
     "type": "global",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "Castle TV",
@@ -463,7 +517,8 @@
     "version": "1.0",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/castle.png",
     "type": "global",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "AnimeSalt",
@@ -472,7 +527,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/animesalt.png",
     "type": "anime",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "AnimeWorld",
@@ -481,7 +537,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/animeworld.png",
     "type": "anime",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "MovieLinkBD",
@@ -489,7 +546,8 @@
     "version": "1.01",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/movielinkdb.png",
     "type": "india",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "MX Player",
@@ -497,7 +555,8 @@
     "version": "1.1",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/mxplayer.png",
     "type": "india",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "YouTube",
@@ -506,7 +565,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/youtube.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "Kartoons",
@@ -515,7 +575,8 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/kartoons.png",
     "type": "anime",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   },
   {
     "display_name": "1Flex",
@@ -523,7 +584,8 @@
     "version": "1.0.5",
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/1flex.png",
     "type": "global",
-    "disabled": false
+    "disabled": false,
+    "author": "Official"
   },
   {
     "display_name": "Internet Archive",
@@ -532,6 +594,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/internetArchive.png",
     "type": "global",
     "disabled": false,
-    "hasSettings": true
+    "hasSettings": true,
+    "author": "Official"
   }
 ]
