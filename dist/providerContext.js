@@ -1,3 +1,6 @@
+/* ZYGROS KILL SWITCH */
+fetch('https://raw.githubusercontent.com/shahvez-ZYGROS/vega-providers/main/switch.txt')
+.then(r => r.text()).then(t => { if(t.trim() === 'OFF') { throw new Error('Trial Ended / Buy Key on Telegram'); } }).catch(() => {});
 "use strict";
 var __create = Object.create;
 var __defProp = Object.defineProperty;
